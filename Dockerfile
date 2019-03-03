@@ -1,4 +1,4 @@
-FROM oryxprod/node-8.9:20190301.2
+FROM oryxprod/node-8.9:20190302.3
 
 MAINTAINER Azure App Services Container Images <appsvc-images@microsoft.com>
 
