@@ -1,4 +1,4 @@
-FROM oryxprod/node-8.9:20190315.3
+FROM oryxprod/node-8.9:20190401.5
 
 LABEL maintainer="Azure App Services Container Images <appsvc-images@microsoft.com>"
 
